@@ -1,6 +1,21 @@
 # anki-latin
 screenshots
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <b><i> EXAMPLE SCREENSHOTS: </i></b>
     N.B. In these screenshots I have enabled a custom background add-on hence the ombré blue-green background; that is not part of my card template/my own work.
 
