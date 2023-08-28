@@ -1,21 +1,6 @@
 # anki-latin
 screenshots
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <b><i> EXAMPLE SCREENSHOTS: </i></b>
     N.B. In these screenshots I have enabled a custom background add-on hence the ombré blue-green background; that is not part of my card template/my own work.
 
@@ -45,3 +30,11 @@ SIMPLER CARD STYLE (BY ME) USED FOR SOME CARDS:
 
     [Back]
 <img width="1440" alt="Screenshot 2022-03-18 at 14 08 18" src="https://user-images.githubusercontent.com/88746918/159186512-fafbe02e-ff02-4eb1-9abf-985997751182.png">
+
+
+
+
+
+
+
+<hr><hr>
